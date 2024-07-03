@@ -1,5 +1,25 @@
 # Reconstruct 3D Human Pose with NeRF
 
+## Acknowledgements
+We thank professor David Fouhey and the instructor team for EECS 442 for their valuable insights and support.
+
+## Credits
+- **Minzhe Guo**  
+  University of Michigan  
+  vincegmz@umich.edu
+
+- **Lyuyongkang Yuan**  
+  University of Michigan  
+  lyuyong@umich.edu
+
+- **Yikai Wang**  
+  University of Michigan  
+  danwyk@umich.edu
+
+- **Tianyuan Du**  
+  University of Michigan  
+  alexdu@umich.edu
+
 ## Overview
 This repository contains the project report and supporting materials for "Reconstruct 3D Human Pose with NeRF". The project leverages Neural Radiance Fields (NeRF) to reconstruct and visualize 3D human poses from 2D images.
 
