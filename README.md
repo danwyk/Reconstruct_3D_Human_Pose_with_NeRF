@@ -1,10 +1,10 @@
 # Reconstruct 3D Human Pose with NeRF
-[Click here to view the PDF](https://github.com/danwyk/Reconstruct_3D_Human_Pose_with_NeRF/blob/main/Reconstruct_3D_Human_Pose_with_NeRF.pdf)
+[Click here to view the report](https://github.com/danwyk/Reconstruct_3D_Human_Pose_with_NeRF/blob/main/Reconstruct_3D_Human_Pose_with_NeRF.pdf)
 
 
 <object data="https://github.com/danwyk/Reconstruct_3D_Human_Pose_with_NeRF/blob/main/Reconstruct_3D_Human_Pose_with_NeRF.pdf" width="300" height="300" type='application/pdf'></objec>
 
-<img src="https://github.com/danwyk/Reconstruct_3D_Human_Pose_with_NeRF/blob/main/figure2.png" alt="Thumbnail" width="300" />
+<img src="https://github.com/danwyk/Reconstruct_3D_Human_Pose_with_NeRF/blob/main/figure2.png" alt="Thumbnail" width="500" />
 
 ## Overview
 This repository contains the project report and supporting materials for "Reconstruct 3D Human Pose with NeRF". The project leverages Neural Radiance Fields (NeRF) to reconstruct and visualize 3D human poses from 2D images.
