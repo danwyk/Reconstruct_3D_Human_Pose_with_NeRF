@@ -1,6 +1,9 @@
 # Reconstruct 3D Human Pose with NeRF
 [Click here to view the PDF](https://github.com/danwyk/Reconstruct_3D_Human_Pose_with_NeRF/blob/main/Reconstruct_3D_Human_Pose_with_NeRF.pdf)
 
+
+<object data="https://github.com/danwyk/Reconstruct_3D_Human_Pose_with_NeRF/blob/main/Reconstruct_3D_Human_Pose_with_NeRF.pdf" width="1000" height="1000" type='application/pdf'></objec
+
 <img src="https://github.com/danwyk/Reconstruct_3D_Human_Pose_with_NeRF/blob/main/figure2.png" alt="Thumbnail" width="150" />
 
 ## Overview
