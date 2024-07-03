@@ -33,11 +33,6 @@ The results demonstrate the effectiveness of NeRF in reconstructing 3D human pos
 ## Conclusion
 The conclusion summarizes the findings and discusses the implications of using NeRF for 3D human pose reconstruction. It also highlights potential future work and improvements.
 
----
-
-## Acknowledgements
-We thank professor David Fouhey and the instructor team for EECS 442 for their valuable insights and support.
-
 ## Credits
 - **Minzhe Guo**  
   University of Michigan  
@@ -54,3 +49,8 @@ We thank professor David Fouhey and the instructor team for EECS 442 for their v
 - **Tianyuan Du**  
   University of Michigan  
   alexdu@umich.edu
+
+---
+
+## Acknowledgements
+We thank professor David Fouhey and the instructor team for EECS 442 for their valuable insights and support.
