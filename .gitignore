@@ -1,0 +1,13 @@
+colmap/
+env/
+dense/
+sparse/
+images/
+MyDrawingOnImage/
+MyDrawing/
+database.db
+database.db-shm
+database.db-wal
+*.mp4
+*.webm
+.DS_Store
